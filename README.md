@@ -3,7 +3,7 @@
 ## Install
 
 ```pwsh
-scoop bucket add subchen https://github.com/subchen/scoop
+scoop bucket add subchen https://github.com/subchen/scoop=bucket
 scoop install subchen/<app>
 ```
 
